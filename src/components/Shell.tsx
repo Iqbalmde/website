@@ -8,7 +8,7 @@ type Variant = "home" | "page" | "admin" | "signin";
 function PublicNav() {
   return (
     <nav className="nav">
-      <a href="https://tryzelpi.com" target="_blank" rel="noopener">Zelpi</a>
+      <span>Coming soon</span>
       <Link to="/blog">Blog</Link>
       <Link to="/research">Research</Link>
       <Link to="/contact">Contact</Link>
