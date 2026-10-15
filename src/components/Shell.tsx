@@ -1,14 +1,17 @@
 import { Link, useNavigate } from "@tanstack/react-router";
-import type { ReactNode } from "react";
+import { useState, type ReactNode } from "react";
 import SideField from "./SideField";
 import { clearToken } from "@/lib/admin-session";
 
 type Variant = "home" | "page" | "admin" | "signin";
 
 function PublicNav() {
+  const [zelpiClicked, setZelpiClicked] = useState(false);
   return (
     <nav className="nav">
-      <span>Coming soon</span>
+      <button type="button" onClick={() => setZelpiClicked(true)}>
+        {zelpiClicked ? "Coming soon" : "Zelpi"}
+      </button>
       <Link to="/blog">Blog</Link>
       <Link to="/research">Research</Link>
       <Link to="/contact">Contact</Link>
