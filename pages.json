@@ -1,0 +1,10 @@
+{
+  "/": "index.html",
+  "/contact": "contact/index.html",
+  "/research": "research/index.html",
+  "/blog": "blog/index.html",
+  "/admin": "admin/index.html",
+  "/admin/research": "admin/research/index.html",
+  "/admin/blogs": "admin/blogs/index.html",
+  "/admin/logs": "admin/logs/index.html"
+}
