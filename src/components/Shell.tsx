@@ -1,19 +1,16 @@
 import { Link, useNavigate } from "@tanstack/react-router";
-import { useState, type ReactNode } from "react";
+import type { ReactNode } from "react";
 import SideField from "./SideField";
 import { clearToken } from "@/lib/admin-session";
 
 type Variant = "home" | "page" | "admin" | "signin";
 
 function PublicNav() {
-  const [researchClicked, setResearchClicked] = useState(false);
   return (
     <nav className="nav">
       <a href="https://tryzelpi.com/" target="_blank" rel="noopener">Zelpi</a>
       <Link to="/blog">Blog</Link>
-      <button type="button" onClick={() => setResearchClicked(true)}>
-        {researchClicked ? "Coming soon" : "Research"}
-      </button>
+      <Link to="/research">Research</Link>
       <Link to="/contact">Contact</Link>
     </nav>
   );

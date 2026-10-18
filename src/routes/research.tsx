@@ -1,13 +1,7 @@
 import { createFileRoute } from "@tanstack/react-router";
-import { queryOptions, useSuspenseQuery } from "@tanstack/react-query";
 import Shell from "@/components/Shell";
-import { listResearch } from "@/lib/public.functions";
-import { fmtDate } from "@/lib/admin-session";
-
-const q = queryOptions({ queryKey: ["research"], queryFn: () => listResearch() });
 
 export const Route = createFileRoute("/research")({
-  loader: ({ context }) => context.queryClient.ensureQueryData(q),
   head: () => ({
     meta: [
       { title: "Research · Zelantrix" },
@@ -19,7 +13,7 @@ export const Route = createFileRoute("/research")({
   component: Research,
 });
 
-const curated = [
+const papers = [
   ["01 · Benchmark", "Benchmarking Vision-Language-Action Models on SO-101: Failure and Recovery Analysis", "Yi Yu, Xinchuan Qiu (2026)", "https://arxiv.org/abs/2606.08881"],
   ["02 · Routing", "RouterVLA: Budgeted Commissioning and Expert Onboarding for Growing VLA Pools", "Xingyu Ren, Chugang Yi, Youran Sun (2026)", "https://arxiv.org/abs/2606.27355"],
   ["03 · Safety", "SAFE: Multitask Failure Detection for Vision-Language-Action Models", "Qiao Gu et al. (2025)", "https://arxiv.org/abs/2506.09937"],
@@ -30,21 +24,13 @@ const curated = [
 ];
 
 function Research() {
-  const { data } = useSuspenseQuery(q);
   return (
     <Shell variant="page" wide>
       <section className="col" style={{ paddingTop: 190, paddingBottom: 80 }}>
         <h1 className="hero">Towards Reliable Physical Intelligence</h1>
       </section>
       <section className="grid">
-        {data.map((r) => (
-          <a key={r.id} className="card" href={r.href} target="_blank" rel="noopener">
-            <div className="nm">New Research</div>
-            <div className="ct">{r.title}</div>
-            <div className="au">{r.src} · {fmtDate(r.created_at)} ↗</div>
-          </a>
-        ))}
-        {curated.map(([nm, ct, au, href]) => (
+        {papers.map(([nm, ct, au, href]) => (
           <a key={href} className="card" href={href} target="_blank" rel="noopener">
             <div className="nm">{nm}</div>
             <div className="ct">{ct}</div>
