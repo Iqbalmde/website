@@ -16,8 +16,11 @@ export const Route = createFileRoute("/blog/")({
 function Blog() {
   return (
     <Shell variant="page" wide>
-      <section className="col" style={{ paddingTop: 190, paddingBottom: 96 }}>
-        <h1 className="hero">Coming soon</h1>
+      <section className="col" style={{ paddingTop: 190, paddingBottom: 80 }}>
+        <h1 className="hero">Notes on Physical Intelligence</h1>
+      </section>
+      <section className="col" style={{ paddingBottom: 96 }}>
+        <p className="p">The founders will be posting here soon.</p>
       </section>
     </Shell>
   );
