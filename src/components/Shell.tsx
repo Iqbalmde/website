@@ -6,13 +6,10 @@ import { clearToken } from "@/lib/admin-session";
 type Variant = "home" | "page" | "admin" | "signin";
 
 function PublicNav() {
-  const [zelpiClicked, setZelpiClicked] = useState(false);
   const [researchClicked, setResearchClicked] = useState(false);
   return (
     <nav className="nav">
-      <button type="button" onClick={() => setZelpiClicked(true)}>
-        {zelpiClicked ? "Coming soon" : "Zelpi"}
-      </button>
+      <a href="https://tryzelpi.com/" target="_blank" rel="noopener">Zelpi</a>
       <Link to="/blog">Blog</Link>
       <button type="button" onClick={() => setResearchClicked(true)}>
         {researchClicked ? "Coming soon" : "Research"}
