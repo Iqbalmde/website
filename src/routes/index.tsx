@@ -128,8 +128,10 @@ function Home() {
           <p className="p" style={{ margin: "0 0 32px" }}>we are grateful for the people and companies backing our work.</p>
           <div className="sup">
             <div className="lbl">Backed by</div>
-            <a className="v" href="https://www.livetheresidency.com/" target="_blank" rel="noopener" style={{ display: "block", borderBottom: "1px solid #111111", width: "fit-content" }}>The Residency</a>
-            <a className="v" href="https://www.rightsidecapital.com/" target="_blank" rel="noopener" style={{ display: "block", borderBottom: "1px solid #111111", width: "fit-content" }}>RSCM</a>
+            <div className="vs">
+              <a className="v" href="https://www.livetheresidency.com/" target="_blank" rel="noopener">The Residency</a>
+              <a className="v" href="https://www.rightsidecapital.com/" target="_blank" rel="noopener">RSCM</a>
+            </div>
           </div>
         </div>
       </section>

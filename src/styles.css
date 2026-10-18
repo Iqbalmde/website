@@ -60,6 +60,8 @@ button { font-family: inherit; }
 .sup { display: grid; grid-template-columns: 110px 1fr; gap: 16px 24px; align-items: baseline; }
 .sup .lbl { line-height: 2.6; }
 .sup .v { font-size: 14px; line-height: 2.2; color: #111111; }
+.sup .vs { display: flex; flex-direction: column; gap: 4px; align-items: flex-start; }
+.sup .vs a { border-bottom: 1px solid #111111; }
 .ctc { display: grid; grid-template-columns: 90px 1fr; gap: 12px 24px; align-items: baseline; }
 .ctc .n { font-size: 14px; color: #111111; line-height: 2.2; }
 .ctc .ls { display: flex; flex-wrap: wrap; align-items: baseline; gap: 4px 20px; line-height: 2.2; }
