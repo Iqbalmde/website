@@ -1,6 +1,7 @@
 import { Link, useNavigate } from "@tanstack/react-router";
 import type { ReactNode } from "react";
 import SideField from "./SideField";
+import CookieConsent, { openCookieSettings } from "./CookieConsent";
 import { clearToken } from "@/lib/admin-session";
 
 type Variant = "home" | "page" | "admin" | "signin";
@@ -42,8 +43,17 @@ export default function Shell({ variant, wide, children }: { variant: Variant; w
       <main className="stage">
         {children}
         <footer className={wide ? "col" : "colc"}>
+          <nav className="legal-nav">
+            <a href="/cookie-policy">Cookie Policy</a>
+            <a href="/privacy-policy">Privacy Policy</a>
+            <a href="/terms-and-conditions">Terms & Conditions</a>
+            <a href="/query">Query</a>
+            <a href="/grievance-redressal">Grievance Redressal</a>
+            <button type="button" onClick={openCookieSettings}>Cookie Settings</button>
+          </nav>
           <div className="ftr">© 2026 ZELANTRIX, INC.</div>
         </footer>
+        <CookieConsent />
       </main>
     </div>
   );

@@ -1,0 +1,586 @@
+{
+ "privacy": {
+  "title": "Privacy Policy",
+  "date": "Draft for owner and legal review · 19 October 2026",
+  "intro": [
+   [
+    "This draft concerns the Zelantrix website, public research and blog pages, founder enquiries and private team administration. Zelantrix, Inc. is registered in Delaware and operates from India."
+   ]
+  ],
+  "notice": [
+   "This business-specific draft is not a certification of worldwide compliance. Company address, designated privacy contact, grievance officer details and operational practices still require confirmation before final adoption."
+  ],
+  "body": [
+   {
+    "t": "h2",
+    "text": "1. Scope and contact"
+   },
+   {
+    "t": "p",
+    "segs": [
+     "Separate agreements and notices are needed for factory deployments, robot observations, customer projects or product services; this website policy does not authorise collection of workplace or robot-camera data. Zelpi and external research sites are governed by their own notices."
+    ]
+   },
+   {
+    "t": "p",
+    "segs": [
+     "A dedicated privacy address and registered street address have not yet been supplied. For now, privacy enquiries can be directed to an existing founder contact listed on the ",
+     {
+      "href": "/contact",
+      "text": "Contact page",
+      "external": false
+     },
+     ". This is not a representation that a statutory privacy representative or grievance officer has been appointed."
+    ]
+   },
+   {
+    "t": "h2",
+    "text": "2. Information involved"
+   },
+   {
+    "t": "ul",
+    "items": [
+     [
+      {
+       "strong": "Browsing:"
+      },
+      " requests to hosting, font and content services expose technical connection information such as IP address and requested resources; provider logging and retention need confirmation."
+     ],
+     [
+      {
+       "strong": "Enquiries:"
+      },
+      " if you email a founder, your email address and information you choose to send are part of that correspondence. The Query page opens your email application; it does not submit a stored website ticket."
+     ],
+     [
+      {
+       "strong": "Team administration:"
+      },
+      " sign-in and administrative activity use email, authentication details, IP information and action records. Research uploads and blog drafts contain information supplied by the team."
+     ],
+     [
+      {
+       "strong": "Choices:"
+      },
+      " browser storage remembers consent settings and supports private team sign-in."
+     ]
+    ]
+   },
+   {
+    "t": "p",
+    "segs": [
+     "Public research links do not display uploader email addresses. Blog posts can display author names. Do not send passwords, identity documents, health information, confidential factory data or other sensitive material through a general enquiry."
+    ]
+   },
+   {
+    "t": "h2",
+    "text": "3. Purposes and legal grounds"
+   },
+   {
+    "t": "p",
+    "segs": [
+     "Information is involved in delivering pages and PDFs, responding to correspondence, securing team access, recording administrative actions and remembering privacy choices. Optional preference and analytics categories remain inactive in application code."
+    ]
+   },
+   {
+    "t": "p",
+    "segs": [
+     "Where a law requires a legal basis, it must be assessed for each activity: for example consent for optional storage, a requested pre-contractual response, or legitimate interests for necessary security where that ground is permitted. A website visit is not blanket consent to unrelated processing. Indian processing grounds and any required notice or consent must be assessed under the provisions in force for the relevant activity."
+    ]
+   },
+   {
+    "t": "h2",
+    "text": "4. Services and disclosures"
+   },
+   {
+    "t": "p",
+    "segs": [
+     "The website uses Lovable Cloud for content and administration and Google Fonts for typography. Team members can use AI assistance to refine a blog draft, which sends the supplied draft text to the AI service. A provider list, contractual roles and actual service retention must be verified before this policy is adopted. Information may also need to be provided in response to a valid legal requirement, subject to applicable law."
+    ]
+   },
+   {
+    "t": "p",
+    "segs": [
+     "We do not infer sale, advertising sharing, provider retention or international safeguards from a lack of tracking code. Those operational facts require confirmation."
+    ]
+   },
+   {
+    "t": "h2",
+    "text": "5. Retention and international processing"
+   },
+   {
+    "t": "p",
+    "segs": [
+     "Consent settings expire after 180 days. Admin sign-in uses tab-scoped storage; signing out removes the application’s admin token. These browser lifetimes are not retention periods for server records. Retention periods for correspondence, security logs, uploads, backups and service-provider records still need to be established."
+    ]
+   },
+   {
+    "t": "p",
+    "segs": [
+     "Operations in India and service providers may involve processing outside your country. Destination countries and any required transfer mechanism—such as an adequacy decision or contractual safeguards—must be confirmed for each applicable transfer. Delaware registration does not establish where every service stores data."
+    ]
+   },
+   {
+    "t": "h2",
+    "text": "6. Your rights"
+   },
+   {
+    "t": "p",
+    "segs": [
+     "Depending on your location and the law’s scope, you may have rights to information, access, correction, deletion, portability, restriction, objection, withdrawal of consent or appeal. These rights are not identical worldwide and can be subject to lawful exceptions and proportionate identity verification."
+    ]
+   },
+   {
+    "t": "ul",
+    "items": [
+     [
+      {
+       "strong": "EU/EEA and UK:"
+      },
+      " where their privacy laws apply, you may request applicable rights and complain to the competent supervisory authority."
+     ],
+     [
+      {
+       "strong": "India:"
+      },
+      " applicable rights and grievance processes depend on the provisions in force, their commencement schedule and the processing concerned. These can include access to information, correction, erasure, grievance redressal and nomination."
+     ],
+     [
+      {
+       "strong": "United States and elsewhere:"
+      },
+      " state or national privacy rights, including relevant opt-out and appeal rights, apply only where the organisation and activity are covered. California rights are not triggered solely by Delaware incorporation."
+     ]
+    ]
+   },
+   {
+    "t": "p",
+    "segs": [
+     "Use ",
+     {
+      "href": "/query",
+      "text": "Query",
+      "external": false
+     },
+     " to prepare a request or see ",
+     {
+      "href": "/grievance-redressal",
+      "text": "Grievance Redressal",
+      "external": false
+     },
+     ". Include the country whose rights you wish to exercise and enough context to locate the information, without attaching sensitive proof initially. No fee, deadline or eligibility restriction in this draft overrides mandatory law."
+    ]
+   },
+   {
+    "t": "h2",
+    "text": "7. Children, changes and cookies"
+   },
+   {
+    "t": "p",
+    "segs": [
+     "The website is intended for professional research audiences, not directed to children. If you believe a child has supplied personal information, contact the founders; any age-specific obligations must be assessed under applicable law. Material changes should be reflected in this notice and communicated or consented to where required. See the ",
+     {
+      "href": "/cookie-policy",
+      "text": "Cookie Policy",
+      "external": false
+     },
+     " for browser controls."
+    ]
+   }
+  ]
+ },
+ "terms": {
+  "title": "Terms & Conditions",
+  "date": "Draft for owner and legal review · 19 October 2026",
+  "intro": [
+   [
+    "These draft terms concern access to the Zelantrix informational website. Zelantrix, Inc. is registered in Delaware and operates from India. They do not replace a separately agreed customer, employment or research contract."
+   ]
+  ],
+  "notice": [
+   "This business-specific draft is not a certification of worldwide compliance. Company address, designated privacy contact, grievance officer details and operational practices still require confirmation before final adoption."
+  ],
+  "body": [
+   {
+    "t": "h2",
+    "text": "1. Website scope"
+   },
+   {
+    "t": "p",
+    "segs": [
+     "The website shares information about physical AI, research papers and founder commentary. Reading it does not create a deployment, support, consulting or purchasing agreement. Any product service, factory trial, pricing, delivery, refund, service level or data-processing commitments must be set out separately. Zelpi is an external destination with its own terms."
+    ]
+   },
+   {
+    "t": "h2",
+    "text": "2. Appropriate use"
+   },
+   {
+    "t": "p",
+    "segs": [
+     "Use the site lawfully. Do not attempt unauthorised access to private team areas, disrupt services, distribute malicious material, impersonate others or infringe third-party rights. Access to the admin area is for authorised team members only; its credentials must not be shared outside that authorisation."
+    ]
+   },
+   {
+    "t": "h2",
+    "text": "3. Research and intellectual property"
+   },
+   {
+    "t": "p",
+    "segs": [
+     "Respect applicable copyright, licences and attribution when using website text, software, images and linked research. A link to a paper is not a transfer of its copyright or a grant of rights beyond its own licence. Statutory exceptions and fair-use or fair-dealing rights remain unaffected. Seek permission from the relevant rights holder for uses not already authorised."
+    ]
+   },
+   {
+    "t": "h2",
+    "text": "4. No deployment or safety guarantee"
+   },
+   {
+    "t": "p",
+    "segs": [
+     "Research summaries and benchmark results are informational and depend on their stated conditions. They are not a guarantee of robot performance, industrial safety or fitness for your factory. Deployment decisions require independent evaluation, appropriate safety engineering, risk assessment and applicable approvals. Do not rely on website content alone for safety-critical decisions."
+    ]
+   },
+   {
+    "t": "h2",
+    "text": "5. Links and communications"
+   },
+   {
+    "t": "p",
+    "segs": [
+     "External sites and publications are managed by their respective operators. Follow their terms when visiting or downloading. Contacting a founder does not automatically establish confidentiality, a professional advisory relationship or acceptance of an offer; agree appropriate protections before sending proprietary research or factory information."
+    ]
+   },
+   {
+    "t": "h2",
+    "text": "6. Availability and responsibility"
+   },
+   {
+    "t": "p",
+    "segs": [
+     "Content may change and availability may be interrupted. Any final disclaimer or limitation of liability must be reviewed under applicable law; this draft does not exclude liability that cannot lawfully be excluded or waive mandatory consumer protections. It does not impose an unreviewed liability cap, indemnity or compulsory arbitration clause."
+    ]
+   },
+   {
+    "t": "h2",
+    "text": "7. Applicable law and disputes"
+   },
+   {
+    "t": "p",
+    "segs": [
+     "Delaware incorporation and Indian operations do not determine every visitor’s legal protections or dispute forum. No exclusive governing-law or court clause has been adopted in this draft. Mandatory local rights remain applicable where the law provides them. Start with ",
+     {
+      "href": "/query",
+      "text": "Query",
+      "external": false
+     },
+     " or ",
+     {
+      "href": "/grievance-redressal",
+      "text": "Grievance Redressal",
+      "external": false
+     },
+     "; contacting us does not prevent you from approaching a competent authority or court."
+    ]
+   },
+   {
+    "t": "h2",
+    "text": "8. Privacy and adoption"
+   },
+   {
+    "t": "p",
+    "segs": [
+     "Review our ",
+     {
+      "href": "/privacy-policy",
+      "text": "Privacy Policy",
+      "external": false
+     },
+     " and ",
+     {
+      "href": "/cookie-policy",
+      "text": "Cookie Policy",
+      "external": false
+     },
+     ". These terms require owner approval and legal review before final adoption; substantive updates should carry a new date and any notice required by law. Cookie consent is separate from contractual acceptance."
+    ]
+   }
+  ]
+ },
+ "grievance": {
+  "title": "Grievance Redressal",
+  "date": "Draft for owner and legal review · 19 October 2026",
+  "intro": [
+   [
+    "This draft sets out a proposed process for complaints about Zelantrix’s website, published content or handling of personal information. Zelantrix, Inc. is registered in Delaware and operates from India."
+   ]
+  ],
+  "notice": [
+   "This business-specific draft is not a certification of worldwide compliance. Company address, designated privacy contact, grievance officer details and operational practices still require confirmation before final adoption."
+  ],
+  "body": [
+   {
+    "t": "h2",
+    "text": "1. Current contact"
+   },
+   {
+    "t": "p",
+    "segs": [
+     "No dedicated grievance email or formally appointed grievance officer has been supplied. Until those details are confirmed, you can raise a concern with the existing founder contacts on the ",
+     {
+      "href": "/contact",
+      "text": "Contact page",
+      "external": false
+     },
+     ", or use ",
+     {
+      "href": "/query",
+      "text": "Query",
+      "external": false
+     },
+     " to prepare an email. A founder contact is not presented as a statutory officer."
+    ]
+   },
+   {
+    "t": "p",
+    "segs": [
+     {
+      "href": "mailto:raihan@zelantrix.com?subject=Zelantrix%20grievance",
+      "text": "Email Raihan about a grievance ↗",
+      "external": false
+     }
+    ]
+   },
+   {
+    "t": "h2",
+    "text": "2. What to include"
+   },
+   {
+    "t": "ul",
+    "items": [
+     [
+      "A reply address and a brief description of the concern."
+     ],
+     [
+      "The relevant website page, interaction and dates."
+     ],
+     [
+      "For a privacy matter, the applicable country and right you wish to exercise."
+     ],
+     [
+      "The outcome you seek and any non-sensitive supporting context."
+     ]
+    ]
+   },
+   {
+    "t": "p",
+    "segs": [
+     "Do not send account passwords or unredacted identity documents. Additional information, if necessary, should be requested through an appropriate channel and limited to the purpose."
+    ]
+   },
+   {
+    "t": "h2",
+    "text": "3. Proposed handling process"
+   },
+   {
+    "t": "p",
+    "segs": [
+     "The proposed process is to review the concern, acknowledge receipt, identify relevant information, investigate and communicate an outcome or next steps. If you disagree, reply to the founder contact with the reason and request further review. A separate automated ticket system, tracking number and guaranteed response timetable are not currently provided."
+    ]
+   },
+   {
+    "t": "p",
+    "segs": [
+     "The company must confirm responsible personnel, acknowledgement and resolution targets before adopting this process. Any mandatory statutory response period takes precedence; this draft does not extend or replace it."
+    ]
+   },
+   {
+    "t": "h2",
+    "text": "4. India and international rights"
+   },
+   {
+    "t": "p",
+    "segs": [
+     "Indian privacy and other grievance duties depend on the business activity and provisions in force. Before final adoption, assess the applicable Digital Personal Data Protection framework, its phased commencement and any other applicable requirements. Do not treat this page alone as appointment of an officer or satisfaction of a statutory mechanism."
+    ]
+   },
+   {
+    "t": "p",
+    "segs": [
+     "Where EU/EEA, UK, US state or other local laws apply, complaints, opt-outs and appeals remain subject to those laws. This internal contact process does not remove your right to contact a competent regulator, consumer authority or court. Follow any statutory prerequisites that apply to your particular complaint."
+    ]
+   },
+   {
+    "t": "h2",
+    "text": "5. Privacy and related information"
+   },
+   {
+    "t": "p",
+    "segs": [
+     "Send only what is necessary to investigate. Complaint-record access, retention and handling procedures must be confirmed by the company. See the ",
+     {
+      "href": "/privacy-policy",
+      "text": "Privacy Policy",
+      "external": false
+     },
+     ", ",
+     {
+      "href": "/terms-and-conditions",
+      "text": "Terms & Conditions",
+      "external": false
+     },
+     " and ",
+     {
+      "href": "/cookie-policy",
+      "text": "Cookie Policy",
+      "external": false
+     },
+     " for the corresponding website drafts."
+    ]
+   },
+   {
+    "t": "h2",
+    "text": "6. Official references"
+   },
+   {
+    "t": "p",
+    "segs": [
+     "Applicability requires assessment, not simply a link to a law. Consult the ",
+     {
+      "href": "https://www.meity.gov.in/documents/act-and-policies/digital-personal-data-protection-rules-2025-gDOxUjMtQWa",
+      "text": "Indian DPDP Rules and commencement materials",
+      "external": true
+     },
+     ", the ",
+     {
+      "href": "https://www.edpb.europa.eu/documents/guideline/guidelines-052020-on-consent-under-regulation-2016679_en",
+      "text": "European Data Protection Board’s consent guidance",
+      "external": true
+     },
+     " and the ",
+     {
+      "href": "https://oag.ca.gov/privacy/ccpa",
+      "text": "California Attorney General’s privacy-rights guidance",
+      "external": true
+     },
+     ". Review the latest official materials before adopting these drafts."
+    ]
+   }
+  ]
+ },
+ "cookie": {
+  "title": "Cookie Policy",
+  "date": "Draft for owner and legal review · 19 October 2026",
+  "intro": [
+   [
+    "This policy explains cookies and similar browser storage on Zelantrix’s informational physical AI research website. Zelantrix, Inc. is registered in Delaware and operates from India."
+   ]
+  ],
+  "notice": [
+   "This business-specific draft is not a certification of worldwide compliance. Company address, designated privacy contact, grievance officer details and operational practices still require confirmation before final adoption."
+  ],
+  "body": [
+   {
+    "t": "h2",
+    "text": "1. Cookies and similar storage"
+   },
+   {
+    "t": "p",
+    "segs": [
+     "Cookies are small files a website stores in your browser. Local storage persists between visits, while session storage is scoped to a browser tab. This policy covers these technologies together; the consent popup also controls optional categories."
+    ]
+   },
+   {
+    "t": "h2",
+    "text": "2. Necessary storage"
+   },
+   {
+    "t": "ul",
+    "items": [
+     [
+      {
+       "strong": "Cookie choice:"
+      },
+      " the local-storage entry “zelantrix-cookie-choice” records the date, version and category choices for up to 180 days. It does not contain your name or email."
+     ],
+     [
+      {
+       "strong": "Team sign-in:"
+      },
+      " “zx-admin-token” is stored in session storage for the private admin area. Sign-out removes it. Authentication services may use additional storage when their sign-in features are used."
+     ]
+    ]
+   },
+   {
+    "t": "p",
+    "segs": [
+     "Necessary storage is not controlled by optional toggles. You can remove it in your browser, but doing so may reset your preferences or interrupt sign-in."
+    ]
+   },
+   {
+    "t": "h2",
+    "text": "3. Optional categories"
+   },
+   {
+    "t": "p",
+    "segs": [
+     "No optional preference or analytics cookies are currently activated by the website’s application code. Preference storage would remember personalised settings; analytics would measure website usage. Your saved choice does not itself install a tracker. Advertising cookies are not offered in this consent manager."
+    ]
+   },
+   {
+    "t": "p",
+    "segs": [
+     "New optional integrations must respect your choice before operating. A materially different purpose or category requires an updated notice and, where required, fresh consent rather than relying on an old choice."
+    ]
+   },
+   {
+    "t": "h2",
+    "text": "4. Choosing and withdrawing consent"
+   },
+   {
+    "t": "p",
+    "segs": [
+     "“Necessary Cookies Only” declines both optional categories. “Accept All Cookies” allows both. “Configure Cookies” lets you choose separately, with optional categories off by default. You can change or withdraw your choice below or in the footer; consent is not required to read public research."
+    ]
+   },
+   {
+    "t": "h2",
+    "text": "5. External services"
+   },
+   {
+    "t": "p",
+    "segs": [
+     "The site loads Google Fonts and uses hosting and content-delivery services. These services receive connection information when requested; a cookie choice is not a blanket block on all internet requests. External research links, Zelpi and social sites have their own policies, which apply when you visit them. Hosting-level storage and service practices must be reviewed separately before this draft is finalised."
+    ]
+   },
+   {
+    "t": "h2",
+    "text": "6. Browser controls and questions"
+   },
+   {
+    "t": "p",
+    "segs": [
+     "Browser settings can block or delete storage. The popup appears whenever you open the website newly or refresh a page, even if you already saved a choice. Your saved preferences remain in effect until you change them or they expire. If saving is blocked, the popup remains visible. For questions, use ",
+     {
+      "href": "/query",
+      "text": "Query",
+      "external": false
+     },
+     " or the existing founder contacts on our ",
+     {
+      "href": "/contact",
+      "text": "Contact page",
+      "external": false
+     },
+     ". Read our ",
+     {
+      "href": "/privacy-policy",
+      "text": "Privacy Policy",
+      "external": false
+     },
+     " for information about personal data."
+    ]
+   }
+  ]
+ }
+}
